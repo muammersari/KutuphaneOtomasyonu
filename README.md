@@ -5,6 +5,7 @@ Bu proje c# ve MsSql kullanılarak geliştirilmiştir.
 Projede Entity framework kullanılmamıştır. En basit ve başlangıç seviyesi olarak kodlanmıştır.
 Projede admin, öğretmen, öğrenci olarak 3 farklı üye statüsü bulunmaktadır.
 
+
 #Admin yetkileri ;
 * Kitap ekleme
 * Alınan Kitap onayı
