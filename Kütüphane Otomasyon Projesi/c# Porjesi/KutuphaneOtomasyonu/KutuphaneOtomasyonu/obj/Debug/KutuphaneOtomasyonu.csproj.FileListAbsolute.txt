@@ -1,0 +1,16 @@
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.GirisYap.resources
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KullaniciKayit.resources
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KitapEkle.resources
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.AdminPaneli.resources
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.KutuphaneBilgiSistemi.resources
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\Muammer\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.excelkaydetme.resources

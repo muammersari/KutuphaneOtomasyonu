@@ -1,0 +1,18 @@
+
+Proje Visual studio 2019 kullanılarak c# windows form app(.Net FrameWork) ortamında geliştirildi.
+
+veritabanı dosyalarını mssql server e yükleme 
+
+ 	Database -> Attach -> Add deyip iki dosyayı da seçip ok dediğinizde veritabaı yüklenmiş olacak.
+
+
+uygulamada veritabanı bağlantısını ayarlama 
+
+uygulama açıldığında her sayfada bulunan sqlConnection bağlantısını kendi mssql serveriniz ismine göre güncellemeniz lazım. Aşağıdaki gibi her sayfada bulunan bağlantı kodunun
+Data Source kısmını yani ' MUAMMER\\SQLEXPRESS ' yazan yeri kendi bilgisayarınızın mssql ismiyle değiştirmeniz gerekir.
+
+        SqlConnection baglanti = new SqlConnection("Data Source=MUAMMER\\SQLEXPRESS;Initial catalog=KutuphaneOtomasyon;Integrated Security=True");
+
+c# projesi dosyası altında bulunan KutuphaneOtomasyonu adlı projenin içindeki .sln uzantılı dosyayı çalıştırmanız yeterli.
+
+projede her metodun ve işlemlerin yanına yaptığı işi anlatan açıklama satırları yazıldı.
