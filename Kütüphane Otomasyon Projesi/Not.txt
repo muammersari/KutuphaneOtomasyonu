@@ -9,9 +9,9 @@ veritabanı dosyalarını mssql server e yükleme
 uygulamada veritabanı bağlantısını ayarlama 
 
 uygulama açıldığında her sayfada bulunan sqlConnection bağlantısını kendi mssql serveriniz ismine göre güncellemeniz lazım. Aşağıdaki gibi her sayfada bulunan bağlantı kodunun
-Data Source kısmını yani ' MUAMMER\\SQLEXPRESS ' yazan yeri kendi bilgisayarınızın mssql ismiyle değiştirmeniz gerekir.
+Data Source kısmını yani ' --- ' yazan yeri kendi bilgisayarınızın mssql ismiyle değiştirmeniz gerekir.
 
-        SqlConnection baglanti = new SqlConnection("Data Source=MUAMMER\\SQLEXPRESS;Initial catalog=KutuphaneOtomasyon;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection("Data Source=---;Initial catalog=KutuphaneOtomasyon;Integrated Security=True");
 
 c# projesi dosyası altında bulunan KutuphaneOtomasyonu adlı projenin içindeki .sln uzantılı dosyayı çalıştırmanız yeterli.
 
